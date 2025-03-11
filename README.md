@@ -2,7 +2,6 @@
 
 **Author:**  
 **Mohammad Talebi-Kalaleh**  
-<talebika@ualberta.ca>  
 
 **GitHub Repository:**  
 [https://github.com/MTalebi/FEMU-for-FrameSection-Identification-in-3DBuilding-using-GA-OAPI-in-SAP2000/tree/main](https://github.com/MTalebi/FEMU-for-FrameSection-Identification-in-3DBuilding-using-GA-OAPI-in-SAP2000/tree/main)
